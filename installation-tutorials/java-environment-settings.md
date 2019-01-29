@@ -1,4 +1,4 @@
-# Java Environment Settings
+# 1.1. Java Environment Settings
 
 ## For Windows 10:
 

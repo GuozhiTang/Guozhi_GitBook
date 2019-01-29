@@ -1,4 +1,4 @@
-# Python Environment Settings
+# 1.2. Python Environment Settings
 
 ## For Windows 10:
 
