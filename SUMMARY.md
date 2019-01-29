@@ -8,3 +8,8 @@
 * [Python Environment Settings](installation-tutorials/python-environment-settings.md)
 * [TOMCAT Environment Settings](installation-tutorials/tomcat-environment-settings.md)
 
+## Java Basics
+
+* [Staic](java-basics/staic.md)
+* [++i和i++](java-basics/++i-he-i++.md)
+
