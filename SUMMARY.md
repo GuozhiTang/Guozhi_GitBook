@@ -8,6 +8,7 @@
 * [1.2. Python Environment Settings](installation-tutorials/python-environment-settings.md)
 * [1.3. TOMCAT Environment Settings](installation-tutorials/tomcat-environment-settings.md)
 * [1.4 iTerm2 Settings](installation-tutorials/1.4-iterm2-settings.md)
+* [1.5 zsh Exchange](installation-tutorials/1.5-zsh-exchange.md)
 
 ## Java Basics
 
