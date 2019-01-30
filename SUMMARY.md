@@ -8,7 +8,7 @@
 * [1.2. Python Environment Settings](installation-tutorials/python-environment-settings.md)
 * [1.3. TOMCAT Environment Settings](installation-tutorials/tomcat-environment-settings.md)
 * [1.4 iTerm2 Settings](installation-tutorials/1.4-iterm2-settings.md)
-* [1.5 zsh Exchange](installation-tutorials/1.5-zsh-exchange.md)
+* [1.5 Homebrew Installation](installation-tutorials/1.5-homebrew-installation.md)
 
 ## Java Basics
 
@@ -22,4 +22,8 @@
 * [3.2.2 Web项目目录结构](web-learning/3.2.2-web-xiang-mu-mu-lu-jie-gou.md)
 * [3.2.3 HTTP简介](web-learning/3.2.3-http-jian-jie.md)
 * [3.3.1 Servlet](web-learning/3.3.1-servlet.md)
+
+## Linux Related
+
+* [4.1 zsh Exchange](linux-related/1.5-zsh-exchange.md)
 
