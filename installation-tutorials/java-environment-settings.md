@@ -1,6 +1,6 @@
 # 1.1. Java Environment Settings
 
-## For Windows 10:
+## For Windows 10
 
 *  Control Panel --&gt; System
 *  Advanced System Settings

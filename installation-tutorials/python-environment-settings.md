@@ -1,6 +1,6 @@
 # 1.2. Python Environment Settings
 
-## For Windows 10:
+## For Windows 10
 
 *  Control Panel --&gt; System
 *  Advanced System Settings
@@ -17,7 +17,7 @@
 python
 ```
 
-## For MacOS:
+## For MacOS
 
  MacOS has its default python2.7
 
