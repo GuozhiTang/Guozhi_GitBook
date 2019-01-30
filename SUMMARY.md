@@ -13,11 +13,12 @@
 ## Java Basics
 
 * [2.1. Static](java-basics/staic.md)
-* [2.2. ++i和i++](java-basics/++i-he-i++.md)
+* [2.2. ++i & i++](java-basics/++i-he-i++.md)
+* [2.3 Iterators in for loop](java-basics/2.3-iterators-in-for-loop.md)
 
 ## JavaWeb Learning
 
-* [3.1. JavaWeb简介](web-learning/3.1.-javaweb-jian-jie.md)
+* [3.1. JavaWeb Introduction](web-learning/3.1.-javaweb-jian-jie.md)
 * [3.2 HTTP & Tomcat](web-learning/3.2-http-and-tomcat/README.md)
   * [3.2.1 JavaWeb服务器介绍](web-learning/3.2-http-and-tomcat/3.2.1-javaweb-fu-wu-qi-jie-shao.md)
   * [3.2.2 Web项目目录结构](web-learning/3.2-http-and-tomcat/3.2.2-web-xiang-mu-mu-lu-jie-gou.md)
