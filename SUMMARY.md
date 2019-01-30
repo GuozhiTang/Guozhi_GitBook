@@ -14,7 +14,8 @@
 
 * [2.1. Static](java-basics/staic.md)
 * [2.2. ++i & i++](java-basics/++i-he-i++.md)
-* [2.3 Iterators in for loop](java-basics/2.3-iterators-in-for-loop.md)
+* [2.3. Leetcode Tests](java-basics/2.3.-leetcode-tests/README.md)
+  * [2.3.1. Iterators in for loop](java-basics/2.3.-leetcode-tests/2.3-iterators-in-for-loop.md)
 
 ## JavaWeb Learning
 
