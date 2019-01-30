@@ -25,7 +25,7 @@
 
 ## Linux Operation
 
-* [4.1 zsh Exchange](linux-related/1.5-zsh-exchange.md)
+* [4.1 zsh/bash Transformation](linux-related/1.5-zsh-exchange.md)
 * [4.2 Linux Commands](linux-related/4.2-linux-commands.md)
 
 ## SQL Related
