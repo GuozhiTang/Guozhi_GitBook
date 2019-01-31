@@ -1,6 +1,6 @@
-# Q & A
+# a. Error Analysis
 
-## 1. IntelliJ IDEA 出现" java: 程序包javax.servlet不存在、 java: 程序包javax.servlet.annotation"等错误
+## 1. IntelliJ IDEA 出现" java: 程序包javax.servlet不存在、 java: 程序包javax.servlet.annotation"等错误。
 
 原因：IntelliJ IDEA 没有导入 servlet-api.jar 这个.jar包，需要手动导入。
 
