@@ -2,13 +2,13 @@
 
 * [Instruction](README.md)
 
-## Installation Tutorials
+## Configuration Tutorials
 
-* [1.1 Java Environment Settings](installation-tutorials/java-environment-settings.md)
-* [1.2 Python Environment Settings](installation-tutorials/python-environment-settings.md)
-* [1.3 TOMCAT Environment Settings](installation-tutorials/tomcat-environment-settings.md)
-* [1.4 iTerm2 Settings](installation-tutorials/1.4-iterm2-settings.md)
-* [1.5 Homebrew Installation](installation-tutorials/1.5-homebrew-installation.md)
+* [1.1 Java Environment Settings](configuration-tutorials/java-environment-settings.md)
+* [1.2 Python Environment Settings](configuration-tutorials/python-environment-settings.md)
+* [1.3 TOMCAT Environment Settings](configuration-tutorials/tomcat-environment-settings.md)
+* [1.4 iTerm2 Settings](configuration-tutorials/1.4-iterm2-settings.md)
+* [1.5 Homebrew Installation](configuration-tutorials/1.5-homebrew-installation.md)
 
 ## Java Basics
 
