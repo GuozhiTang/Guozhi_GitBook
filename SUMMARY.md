@@ -19,6 +19,7 @@
   * [2.3.2 Power](java-basics/2.3.-leetcode-tests/2.3.2-power.md)
   * [2.3.3 Length of Space](java-basics/2.3.-leetcode-tests/2.3.3-length-of-space.md)
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
+* [2.5 .length & .length\(\)](java-basics/2.5-.length-and-.length.md)
 
 ## JavaWeb Learning
 
