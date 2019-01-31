@@ -18,6 +18,7 @@
   * [2.3.1 Iterators in for loop](java-basics/2.3.-leetcode-tests/2.3-iterators-in-for-loop.md)
   * [2.3.2 Power](java-basics/2.3.-leetcode-tests/2.3.2-power.md)
   * [2.3.3 Length of Space](java-basics/2.3.-leetcode-tests/2.3.3-length-of-space.md)
+* [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 
 ## JavaWeb Learning
 
