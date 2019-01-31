@@ -1,2 +1,2 @@
-# 2.3. Leetcode Tests
+# 2.3 Leetcode Tests
 

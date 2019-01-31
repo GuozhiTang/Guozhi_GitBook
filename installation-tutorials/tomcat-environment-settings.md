@@ -1,4 +1,4 @@
-# 1.3. TOMCAT Environment Settings
+# 1.3 TOMCAT Environment Settings
 
 ## For Windows 10:
 
