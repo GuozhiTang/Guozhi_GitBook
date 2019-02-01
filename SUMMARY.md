@@ -32,6 +32,7 @@
 * [3.3 Servlet](javaweb-learning/3.3.-servlet/README.md)
   * [3.3.1 Servlet Introduction](javaweb-learning/3.3.-servlet/3.3.1-servlet-introduction.md)
   * [3.3.2 Servlet Creation](javaweb-learning/3.3.-servlet/3.3.2-servlet-creation.md)
+  * [3.3.3 Create Servlet Directly](javaweb-learning/3.3.-servlet/3.3.3-create-servlet-directly.md)
 * [Errors & Tips](javaweb-learning/errors-and-tips/README.md)
   * [a. Error Analysis](javaweb-learning/errors-and-tips/a.-error-analysis.md)
   * [b. Intellj\_Configure Initial Structure](javaweb-learning/errors-and-tips/b.-intellj_configure-initial-structure.md)
