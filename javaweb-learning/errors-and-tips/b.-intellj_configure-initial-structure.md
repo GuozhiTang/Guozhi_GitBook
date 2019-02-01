@@ -5,7 +5,7 @@
 在web/WEB\_INF 目录下创建两个文件夹：classes和lib  
 classes用来存放编译后输出的class文件，lib用于存放第三方jar包
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
 ## 2. Configure folder path
 
@@ -19,15 +19,15 @@ classes用来存放编译后输出的class文件，lib用于存放第三方jar�
 
 *  -&gt; 选择刚刚创建的lib文件夹 -&gt; OK
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 *  -&gt; 选择Jar Directory -&gt; OK
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 *  -&gt; Apply -&gt; OK
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ## 3. Configure Tomcat
 

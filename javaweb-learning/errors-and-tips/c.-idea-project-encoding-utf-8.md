@@ -4,7 +4,7 @@ Sometime the console of IDEA could not display other language like Chinese.
 
 Like this:
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 Then we can solve following these steps:
 
@@ -19,7 +19,7 @@ Then we can solve following these steps:
 * 若是Windows:
 *  打开 intellij idea15的安装目录 的bin 文件夹下的idea.exe.vmoptions ，用记事本或者Notepad++打开，在文件末尾处添加 **-Dfile.encoding=UTF-8 如下图**
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
@@ -34,5 +34,5 @@ Then we can solve following these steps:
 
 打开Run-Edit Configurations，在VM options 处添加如下图所示，然后应用保存，重启intelij idea,测试发现控制台输出的汉字不在是乱码了
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
