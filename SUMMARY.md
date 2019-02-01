@@ -35,6 +35,7 @@
 * [Errors & Tips](javaweb-learning/errors-and-tips/README.md)
   * [a. Error Analysis](javaweb-learning/errors-and-tips/a.-error-analysis.md)
   * [b. Intellj\_Configure Initial Structure](javaweb-learning/errors-and-tips/b.-intellj_configure-initial-structure.md)
+  * [c. IDEA Project Encoding: UTF-8](javaweb-learning/errors-and-tips/c.-idea-project-encoding-utf-8.md)
 
 ## Linux Operation
 
