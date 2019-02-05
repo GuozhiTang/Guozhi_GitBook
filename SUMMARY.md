@@ -52,3 +52,7 @@
 
 * [5.1 PostgreSQL](sql-related/5.1-postgresql.md)
 
+## HTML
+
+* [6.1 HTML Introduction](html/6.1-html-introduction.md)
+
