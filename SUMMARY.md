@@ -36,6 +36,7 @@
   * [3.3.4 HttpServletRequest Request Object](javaweb-learning/3.3.-servlet/3.3.4-httpservletrequest-request-object.md)
   * [3.3.5 HttpServletResponse Response Object](javaweb-learning/3.3.-servlet/3.3.5-httpservletresponse-response-object.md)
   * [3.3.6 Example: Change Verify Code](javaweb-learning/3.3.-servlet/3.3.6-example-change-verify-code.md)
+  * [3.3.7 Servlet Life Cycle](javaweb-learning/3.3.-servlet/3.3.7-servlet-life-cycle.md)
 * [Errors & Tips](javaweb-learning/errors-and-tips/README.md)
   * [a. Error Analysis](javaweb-learning/errors-and-tips/a.-error-analysis.md)
   * [b. Intellj\_Configure Initial Structure](javaweb-learning/errors-and-tips/b.-intellj_configure-initial-structure.md)
