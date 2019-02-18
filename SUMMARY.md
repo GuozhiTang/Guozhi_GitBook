@@ -9,6 +9,8 @@
 * [1.3 TOMCAT Environment Settings](configuration-tutorials/1.3-tomcat-environment-settings.md)
 * [1.4 iTerm2 Settings](configuration-tutorials/1.4-iterm2-settings.md)
 * [1.5 Homebrew Installation](configuration-tutorials/1.5-homebrew-installation.md)
+* [1.6 Node.js Installation](configuration-tutorials/1.6-node.js-installation.md)
+* [1.7 Browser-sync Installation](configuration-tutorials/1.7-browser-sync-installation.md)
 
 ## Java Basics
 
