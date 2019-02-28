@@ -12,5 +12,5 @@ Till now, it contains Installation tutorials, Java and Web related.
 
 {% page-ref page="linux-operation/4.1-zsh-bash-transformation.md" %}
 
-{% page-ref page="sql-related/5.1-postgresql.md" %}
+{% page-ref page="database/5.1-postgresql.md" %}
 

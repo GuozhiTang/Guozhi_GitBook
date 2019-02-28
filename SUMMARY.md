@@ -50,9 +50,11 @@
 * [4.1 zsh/bash Transformation](linux-operation/4.1-zsh-bash-transformation.md)
 * [4.2 Linux Commands](linux-operation/4.2-linux-commands.md)
 
-## SQL Related
+## Database
 
-* [5.1 PostgreSQL](sql-related/5.1-postgresql.md)
+* [5.1 PostgreSQL](database/5.1-postgresql.md)
+* [5.2 MongoDB](database/5.2-mongodb/README.md)
+  * [Errors & Tips](database/5.2-mongodb/errors-and-tips.md)
 
 ## HTML
 
