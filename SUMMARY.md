@@ -11,6 +11,7 @@
 * [1.5 Homebrew Installation](configuration-tutorials/1.5-homebrew-installation.md)
 * [1.6 Node.js Installation](configuration-tutorials/1.6-node.js-installation.md)
 * [1.7 Browser-sync Installation](configuration-tutorials/1.7-browser-sync-installation.md)
+* [1.8 MongoDB Installation](configuration-tutorials/1.8-mongodb-installation.md)
 
 ## Java Basics
 
