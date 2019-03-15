@@ -66,5 +66,5 @@
 
 ## MEAN Stack
 
-* [1.1 Angular2 Environment](mean-stack/1.1-angular2-environment.md)
+* [1.1 Project Setup](mean-stack/1.1-project-setup.md)
 
