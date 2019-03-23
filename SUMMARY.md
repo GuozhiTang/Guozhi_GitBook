@@ -14,6 +14,7 @@
 * [1.8 MongoDB Installation](configuration-tutorials/1.8-mongodb-installation.md)
 * [1.9 Express Installation](configuration-tutorials/1.9-express-installation.md)
 * [1.10 Tree Installation](configuration-tutorials/1.10-tree-installation.md)
+* [1.11 Angular-CLI Installation](configuration-tutorials/1.11-angular-cli-installation.md)
 
 ## Java Basics
 
