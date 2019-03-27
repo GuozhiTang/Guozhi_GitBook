@@ -16,6 +16,7 @@
 * [1.10 Tree Installation](configuration-tutorials/1.10-tree-installation.md)
 * [1.11 Angular-CLI Installation](configuration-tutorials/1.11-angular-cli-installation.md)
 * [1.12 Git and Github Settings](configuration-tutorials/1.12-git-and-github-settings.md)
+* [1.13 Heroku Configuration](configuration-tutorials/1.13-heroku-configuration.md)
 
 ## Java Basics
 
