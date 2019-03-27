@@ -19,7 +19,7 @@ classes用来存放编译后输出的class文件，lib用于存放第三方jar�
 
 *  -&gt; 选择刚刚创建的lib文件夹 -&gt; OK
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 *  -&gt; 选择Jar Directory -&gt; OK
 
