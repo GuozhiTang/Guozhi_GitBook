@@ -29,6 +29,7 @@
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 * [2.5 .length & .length\(\)](java-basics/2.5-.length-and-.length.md)
 * [2.6 Linked List](java-basics/2.6-linked-list.md)
+* [2.7 IndexOf](java-basics/2.7-indexof.md)
 
 ## JavaWeb Learning
 
