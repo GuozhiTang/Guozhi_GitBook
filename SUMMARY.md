@@ -77,5 +77,5 @@
 
 ## GIT
 
-* [8.1](git/8.1.md)
+* [Error & Tips](git/error-and-tips.md)
 
