@@ -23,15 +23,3 @@
 
 此时可以先备份当前项目内容，然后执行`git clean -d -fx`删除掉当前内容，然后再pull，最后粘贴回备份的项目内容后执行`git push origin master`
 
-
-
-
-
-
-
-相当于git pull，此时又会出现 Please move or remove them before you switch branches
-
-备份当前文件后执行git clean -d -fx
-
-然后
-
