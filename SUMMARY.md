@@ -63,14 +63,15 @@
 * [5.2 MongoDB](database/5.2-mongodb/README.md)
   * [Errors & Tips](database/5.2-mongodb/errors-and-tips.md)
 
-## HTML
+## WEB DEVELOPMENT
 
-* [6.1 HTML Introduction](html/6.1-html-introduction.md)
-* [6.2 Basic Points](html/6.2-basic-points.md)
+* [6.1 HTML Introduction](web-development/6.1-html-introduction.md)
+* [6.2 Basic Points](web-development/6.2-basic-points.md)
 
 ## MEAN Stack
 
-* [7.1 Project Setup](mean-stack/7.1-project-setup.md)
+* [7.1 Project Setup](mean-stack/7.1-project-setup/README.md)
+  * [7.1.1 Normal Setup](mean-stack/7.1-project-setup/7.1.1-normal-setup.md)
 * [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
