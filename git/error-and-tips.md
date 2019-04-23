@@ -23,3 +23,20 @@
 
 此时可以先备份当前项目内容，然后执行`git clean -d -fx`删除掉当前内容，然后再pull，最后粘贴回备份的项目内容后执行`git push origin master`
 
+## 3. git pull出现`Pull is not possible because you have unmerged files.`
+
+应该是因为local文件冲突了
+
+引用：
+
+{% hint style="info" %}
+1.pull会使用`git merge`导致冲突，需要将冲突的文件resolve掉 `git add -u`, `git commit`之后才能成功pull.
+
+2.如果想放弃本地的文件修改，可以使用`git reset --hard FETCH_HEAD`，FETCH\_HEAD表示上一次成功`git pull`之后形成的commit点。然后git pull.  
+注意：
+
+git merge会形成MERGE-HEAD\(FETCH-HEAD\) 。git push会形成HEAD这样的引用。HEAD代表本地最近成功push后形成的引用。
+{% endhint %}
+
+
+
