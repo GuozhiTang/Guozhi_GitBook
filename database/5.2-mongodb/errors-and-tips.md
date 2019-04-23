@@ -4,7 +4,7 @@
 
 输入`mongod`出现无法启动的情况，根据报错可知是"Address already in use"
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 于是我们输入指令查看系统进程：
 
@@ -12,7 +12,7 @@
 sudo lsof -iTCP -sTCP:LISTEN -n -P
 ```
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 果不其然在最后一行发现正在运行的mongod进程占用了27017这个PID，于是我们需要将其删除：
 

@@ -78,5 +78,6 @@
 
 ## GIT
 
+* [8.1 README.md](git/8.1-readme.md.md)
 * [Error & Tips](git/error-and-tips.md)
 
