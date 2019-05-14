@@ -13,10 +13,9 @@
 * [1.7 Browser-sync Installation](configuration-tutorials/1.7-browser-sync-installation.md)
 * [1.8 MongoDB Installation](configuration-tutorials/1.8-mongodb-installation.md)
 * [1.9 Express Installation](configuration-tutorials/1.9-express-installation.md)
-* [1.10 Tree Installation](configuration-tutorials/1.10-tree-installation.md)
-* [1.11 Angular-CLI Installation](configuration-tutorials/1.11-angular-cli-installation.md)
-* [1.12 Git and Github Settings](configuration-tutorials/1.12-git-and-github-settings.md)
-* [1.13 Heroku Configuration](configuration-tutorials/1.13-heroku-configuration.md)
+* [1.10 Angular-CLI Installation](configuration-tutorials/1.10-angular-cli-installation.md)
+* [1.11 Git and Github Settings](configuration-tutorials/1.11-git-and-github-settings.md)
+* [1.12 Heroku Configuration](configuration-tutorials/1.12-heroku-configuration.md)
 
 ## Java Basics
 
