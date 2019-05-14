@@ -79,5 +79,6 @@
 
 * [8.1 README.md](git/8.1-readme.md.md)
 * [8.2 Pull, Push and Merge](git/8.2-pull-push-and-merge.md)
+* [8.3 Commands in Git](git/8.3-commands-in-git.md)
 * [Error & Tips](git/error-and-tips.md)
 
