@@ -12,7 +12,7 @@
 sudo lsof -iTCP -sTCP:LISTEN -n -P
 ```
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 果不其然在最后一行发现正在运行的mongod进程占用了27017这个PID，于是我们需要将其删除：
 
