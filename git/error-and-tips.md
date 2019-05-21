@@ -38,5 +38,14 @@
 git merge会形成MERGE-HEAD\(FETCH-HEAD\) 。git push会形成HEAD这样的引用。HEAD代表本地最近成功push后形成的引用。
 {% endhint %}
 
+## 4. git push出现github上的版本和本地版本冲突:
 
+* Update were rejected because the tip of your current branch is behind its remote counterpart...
+
+![](../.gitbook/assets/image%20%2855%29.png)
+
+* 最好解决办法有一个是：**勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。**
+* \*\*\*\*[**http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html**](http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html)\*\*\*\*
+
+\*\*\*\*
 
