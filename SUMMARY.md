@@ -83,3 +83,7 @@
 * [8.3 Commands in Git](git/8.3-commands-in-git.md)
 * [Error & Tips](git/error-and-tips.md)
 
+## DATA STRUCTURES & ALGORITHMS
+
+* [9.1 Data Structures & Algorithms](data-structures-and-algorithms/9.1-data-structures-and-algorithms.md)
+
