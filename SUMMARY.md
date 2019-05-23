@@ -86,4 +86,5 @@
 ## DATA STRUCTURES & ALGORITHMS
 
 * [9.1 Data Structures & Algorithms](data-structures-and-algorithms/9.1-data-structures-and-algorithms.md)
+* [9.2 Memory & Storage](data-structures-and-algorithms/9.2-memory-and-storage.md)
 
