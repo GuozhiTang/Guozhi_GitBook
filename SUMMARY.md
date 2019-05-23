@@ -86,6 +86,8 @@
 * [9.1 Data Structures & Algorithms](data-structures-and-algorithms/9.1-data-structures-and-algorithms.md)
 * [9.2 Memory & Storage](data-structures-and-algorithms/9.2-memory-and-storage.md)
 * [9.3 Object-Oriented Design](data-structures-and-algorithms/9.3-object-oriented-design.md)
-* [2.6 Linked List](data-structures-and-algorithms/2.6-linked-list.md)
+* [9.4 Linked List](data-structures-and-algorithms/9.4-linked-list.md)
+* [9.5 Recursion](data-structures-and-algorithms/9.5-recursion.md)
+* [9.6 Big O Notation and Time Complexity](data-structures-and-algorithms/9.6-big-o-notation-and-time-complexity.md)
 * [2.8 HashSet & HashMap](data-structures-and-algorithms/2.8-hashset-and-hashmap.md)
 
