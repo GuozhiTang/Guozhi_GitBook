@@ -27,9 +27,7 @@
   * [2.3.3 Length of Space](java-basics/2.3-leetcode-tests/2.3.3-length-of-space.md)
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 * [2.5 .length & .length\(\)](java-basics/2.5-.length-and-.length.md)
-* [2.6 Linked List](java-basics/2.6-linked-list.md)
 * [2.7 IndexOf](java-basics/2.7-indexof.md)
-* [2.8 HashSet & HashMap](java-basics/2.8-hashset-and-hashmap.md)
 
 ## JavaWeb
 
@@ -88,4 +86,6 @@
 * [9.1 Data Structures & Algorithms](data-structures-and-algorithms/9.1-data-structures-and-algorithms.md)
 * [9.2 Memory & Storage](data-structures-and-algorithms/9.2-memory-and-storage.md)
 * [9.3 Object-Oriented Design](data-structures-and-algorithms/9.3-object-oriented-design.md)
+* [2.6 Linked List](data-structures-and-algorithms/2.6-linked-list.md)
+* [2.8 HashSet & HashMap](data-structures-and-algorithms/2.8-hashset-and-hashmap.md)
 
