@@ -74,6 +74,7 @@
 * [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
+* [7.5 Angular Router](mean-stack/7.5-angular-router.md)
 
 ## GIT
 
