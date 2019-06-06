@@ -28,7 +28,6 @@
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 * [2.5 .length & .length\(\)](java-basics/2.5-.length-and-.length.md)
 * [2.7 IndexOf](java-basics/2.7-indexof.md)
-* [2.8](java-basics/2.8.md)
 
 ## JavaWeb
 
@@ -75,7 +74,7 @@
 * [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
-* [7.5 Angular Router](mean-stack/7.5-angular-router.md)
+* [7.5 Angular Router & Hash Router](mean-stack/7.5-angular-router-and-hash-router.md)
 
 ## GIT
 
