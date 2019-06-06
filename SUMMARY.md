@@ -70,7 +70,8 @@
 ## MEAN Stack
 
 * [7.1 Project Setup](mean-stack/7.1-project-setup/README.md)
-  * [7.1.1 Normal Setup](mean-stack/7.1-project-setup/7.1.1-normal-setup.md)
+  * [7.1.1 Simple Setup](mean-stack/7.1-project-setup/7.1.1-simple-setup.md)
+  * [7.1.2 Common Setup](mean-stack/7.1-project-setup/7.1.2-common-setup.md)
 * [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
