@@ -16,6 +16,7 @@
 * [1.10 Angular-CLI Installation](configuration-tutorials/1.10-angular-cli-installation.md)
 * [1.11 Git and Github Settings](configuration-tutorials/1.11-git-and-github-settings.md)
 * [1.12 Heroku Configuration](configuration-tutorials/1.12-heroku-configuration.md)
+* [1.13 Hotkeys](configuration-tutorials/1.13-hotkeys.md)
 
 ## Java Basics
 
@@ -25,6 +26,7 @@
   * [2.3.1 Iterators in for loop](java-basics/2.3-leetcode-tests/2.3.1-iterators-in-for-loop.md)
   * [2.3.2 Power](java-basics/2.3-leetcode-tests/2.3.2-power.md)
   * [2.3.3 Length of Space](java-basics/2.3-leetcode-tests/2.3.3-length-of-space.md)
+  * [2.3.4 Error from double to int](java-basics/2.3-leetcode-tests/2.3.4-error-from-double-to-int.md)
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 * [2.5 .length, .length\(\) & size\(\)](java-basics/2.5-.length-.length-and-size.md)
 * [2.7 IndexOf](java-basics/2.7-indexof.md)
