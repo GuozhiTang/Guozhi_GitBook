@@ -28,6 +28,7 @@
 * [2.4 Data Type Exchange](java-basics/2.4-data-type-exchange.md)
 * [2.5 .length, .length\(\) & size\(\)](java-basics/2.5-.length-.length-and-size.md)
 * [2.7 IndexOf](java-basics/2.7-indexof.md)
+* [2.8 Bitwise Operation](java-basics/2.8-bitwise-operation.md)
 
 ## JavaWeb
 
