@@ -10,6 +10,7 @@ This document is for all the notes written by Guozhi Tang during the process of 
 6. **Web Development:** Here are some common knowledge for all web development.
 7. **MEAN Stack:** Here are some basic notes of MEAN stack \(MongoDB, Express, Angular, NodeJS\).
 8. **Git:** Here are some basic know for Git and its commands. Also, here has some operations of Github.
+9. **Data Structure & Algorithms**: Here are some basic ideas of data structure and algorithms.
 
 
 

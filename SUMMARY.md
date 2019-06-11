@@ -81,7 +81,7 @@
 
 ## GIT
 
-* [8.1 README.md](git/8.1-readme.md.md)
+* [8.1 README & Markdown](git/8.1-readme-and-markdown.md)
 * [8.2 Pull, Push and Merge](git/8.2-pull-push-and-merge.md)
 * [8.3 Commands in Git](git/8.3-commands-in-git.md)
 * [Error & Tips](git/error-and-tips.md)
@@ -94,5 +94,5 @@
 * [9.4 Linked List](data-structures-and-algorithms/9.4-linked-list.md)
 * [9.5 Recursion](data-structures-and-algorithms/9.5-recursion.md)
 * [9.6 Big O Notation and Time Complexity](data-structures-and-algorithms/9.6-big-o-notation-and-time-complexity.md)
-* [2.8 HashSet & HashMap](data-structures-and-algorithms/2.8-hashset-and-hashmap.md)
+* [9.7 HashSet & HashMap](data-structures-and-algorithms/9.7-hashset-and-hashmap.md)
 
