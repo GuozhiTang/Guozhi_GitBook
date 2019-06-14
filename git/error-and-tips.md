@@ -47,7 +47,7 @@ git merge会形成MERGE-HEAD\(FETCH-HEAD\) 。git push会形成HEAD这样的引�
 * 最好解决办法有一个是：**勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。**
 * \*\*\*\*[**http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html**](http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html)\*\*\*\*
 
-## 5. Wrong Updates Revocation in Index Area \(Cache\)
+## 5. \(Add\) Wrong Updates Revocation in Index Area \(Cache\)
 
 In some cases, after running **`git add .`**, we might find that we updates wrong data to the index area.
 
@@ -65,5 +65,33 @@ git status
 git reset HEAD <file>
 ```
 
-\*\*\*\*
+## **6.  \(Commit\) Wrong Updates Revocation**
+
+After `git commit -am "xxxxxx"`, sometime we want to revocate it, then we should:
+
+```bash
+git reset --soft HEAD^
+```
+
+* Here we only revocate the commit operation, the code is still there
+* `HEAD^` means the last version, which can also be written as `HEAD~1`
+* So, if we want to revocate two commits, we can user `HEAD~2`
+
+{% hint style="info" %}
+* --mixed: 不删除工作空间改动代码，撤销commit，并且撤销git add .操作
+  * 这个是默认参数，相当于没有写入参数
+* --soft: 不删除工作空间改动代码，撤销commit，不撤销git add .
+* --hard: 删除工作空间改动代码，撤销commit，撤销git add .
+  * 注意，完成这个操作后，就恢复到了上一次的commit状态
+{% endhint %}
+
+## 7. \(Comments\) Wrong Updates Revocation
+
+如果commit中的注释写错了，只是想改一下注释，则：
+
+```text
+git commit --amend
+```
+
+此时会进入默认vim编辑器，修改完注释完毕后保存就好了
 
