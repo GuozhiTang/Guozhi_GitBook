@@ -95,5 +95,7 @@
 * [9.4 Linked List](data-structures-and-algorithms/9.4-linked-list.md)
 * [9.5 Recursion](data-structures-and-algorithms/9.5-recursion.md)
 * [9.6 Big O Notation and Time Complexity](data-structures-and-algorithms/9.6-big-o-notation-and-time-complexity.md)
-* [9.7 HashSet & HashMap](data-structures-and-algorithms/9.7-hashset-and-hashmap.md)
+* [9.7 HashSet & HashMap](data-structures-and-algorithms/9.7-hashset-and-hashmap/README.md)
+  * [9.7.1 HashMap](data-structures-and-algorithms/9.7-hashset-and-hashmap/9.7.1-hashmap.md)
+  * [9.7.2 HashSet](data-structures-and-algorithms/9.7-hashset-and-hashmap/9.7.2-hashset.md)
 
