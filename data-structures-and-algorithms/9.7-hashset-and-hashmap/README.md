@@ -21,6 +21,20 @@ Hash Algorithm：是一种凑够任意文件中创造小的数字“指纹”的
 * 输入敏感：原始输入信息修改一点信息，产生的额Hash值看起来应该都大不相同
 * 冲突避免：很难找到两段内容不同的明文，是的它们的Hash值一致（发生冲突）。
 
+### d. Hash in Java
+
+| 数据类型 | 查找 | 添加/删除 | 空间 |  |
+| :--- | :--- | :--- | :--- | :--- |
+| ArrayList | O\(1\) | O\(1\) | O\(N\) | O\(N\) |
+| LinkedList | O\(N\) | O\(N\) | O\(1\) | O\(N\) |
+| HashMap | O\(N/Bucket\_size\) | O\(N/Bucket\_size\) | O\(N/Bucket\_size\) | O\(N\) |
+
+由上表可以看出HashMap整体上性能都非常不错，但是不稳定，为O\(N/Buckets\)，N就是数组中没有发生碰撞的元素，Buckets是因碰撞产生的链表
+
+{% hint style="info" %}
+但是实际上，发生碰撞的情况非常少，所以N/Bucket\_size约等于1
+{% endhint %}
+
 ## 2. What is HashSet?
 
 HashSet实现了Set接口，不允许集合中有重复的值
