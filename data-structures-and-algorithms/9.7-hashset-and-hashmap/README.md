@@ -10,7 +10,7 @@ Hash 是根据文件的内容的数据通过逻辑运算得到的数值，不同
 
 Hash Function性质：如果两个Hash值（散列值）是不相同的（根据同一函数），那么这两个Hash值的原始输入也是不相同的。这个疼醒是Hash函数具有确定性的结果。
 
-### c. Hash Algorithm
+### c. Hash Algorithm \(e.g. MD5\)
 
 Hash Algorithm：是一种凑够任意文件中创造小的数字“指纹”的方法。这是一种以较短的信息来保证文件唯一性的标志，这种标志与文件的每一个字节都相关，而且难以找到你想规律。因此，当原有文件发生改变时，其标志值也会发生改变，从而高速文件使用者当前的文件已经不是你所需求的文件。
 
@@ -52,4 +52,11 @@ HashMap实现了Map接口，Map接口对键值对进行映射。Map中不允许�
 | 使用put\(\)方法将元素放入map中 | 使用add\(\)方法将元素放入set中 |
 | HashMap中使用键对象来计算hashcode的值 | HashSet使用成员对象来计算hashcode的值，对于两个对象来说hashcode可能相同，所以equals\(\)方法用来判断对象的相等性，如果两个对象不同的话，那么返回false |
 | HashMap比较快，因为是使用唯一的键来获取对象 | HashSet较HashMap来说比较慢 |
+
+## 5. HashMap & HashTable
+
+他们两者的主要区别其实就是Table全局加了线程同步保护
+
+* HashTable线程更加安全，代价就是因为它粗暴的添加了同步锁，所以会有性能损失
+* 其实有更好的concurrentHashMap可以代替HashTable，一个是方法级，一个是Class级
 
