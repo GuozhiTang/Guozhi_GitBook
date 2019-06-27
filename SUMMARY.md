@@ -80,6 +80,7 @@
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
 * [7.5 Angular Router & Hash Router](mean-stack/7.5-angular-router-and-hash-router.md)
 * [7.6 Parent-child Component](mean-stack/7.6-parent-child-component.md)
+* [7.7 File Upload & Read](mean-stack/7.7-file-upload-and-read.md)
 
 ## GIT
 
