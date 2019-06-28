@@ -69,6 +69,7 @@
 
 * [6.1 HTML Introduction](web-development/6.1-html-introduction.md)
 * [6.2 Basic Points](web-development/6.2-basic-points.md)
+* [6.3 Style Bind in Attributes](web-development/6.3-style-bind-in-attributes.md)
 
 ## MEAN Stack
 
