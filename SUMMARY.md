@@ -81,7 +81,7 @@
 * [7.5 Angular Router & Hash Router](mean-stack/7.5-angular-router-and-hash-router.md)
 * [7.6 Parent-child Component](mean-stack/7.6-parent-child-component.md)
 * [7.7 File Upload & Read](mean-stack/7.7-file-upload-and-read.md)
-* [6.3 Style Bind in Attributes](mean-stack/6.3-style-bind-in-attributes.md)
+* [7.7 Binding](mean-stack/7.7-binding.md)
 
 ## GIT
 
