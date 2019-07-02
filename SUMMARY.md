@@ -83,6 +83,7 @@
   * [7.5.2 Parent-child Component](mean-stack/7.5-angular/7.5.2-parent-child-component.md)
   * [7.5.3 File Upload & Read](mean-stack/7.5-angular/7.5.3-file-upload-and-read.md)
   * [7.5.4 Angular Binding](mean-stack/7.5-angular/7.5.4-angular-binding.md)
+* [7.5.5 Built-in Instructions](mean-stack/7.5.5-built-in-instructions.md)
 
 ## GIT
 
