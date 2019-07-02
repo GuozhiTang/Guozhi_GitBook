@@ -78,10 +78,11 @@
 * [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
-* [7.5 Angular Router & Hash Router](mean-stack/7.5-angular-router-and-hash-router.md)
-* [7.6 Parent-child Component](mean-stack/7.6-parent-child-component.md)
-* [7.7 File Upload & Read](mean-stack/7.7-file-upload-and-read.md)
-* [7.7 Binding](mean-stack/7.7-binding.md)
+* [7.5 Angular](mean-stack/7.5-angular/README.md)
+  * [7.5.1 Angular Router & Hash Router](mean-stack/7.5-angular/7.5.1-angular-router-and-hash-router.md)
+  * [7.5.2 Parent-child Component](mean-stack/7.5-angular/7.5.2-parent-child-component.md)
+  * [7.5.3 File Upload & Read](mean-stack/7.5-angular/7.5.3-file-upload-and-read.md)
+  * [7.5.4 Angular Binding](mean-stack/7.5-angular/7.5.4-angular-binding.md)
 
 ## GIT
 
