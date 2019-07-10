@@ -82,6 +82,7 @@
 * [7.2 JavaScript](mean-stack/7.2-javascript/README.md)
   * [7.2.1 JavaScript Traversal](mean-stack/7.2-javascript/7.2.1-javascript-traversal.md)
   * [7.2.2 Array in JavaScript](mean-stack/7.2-javascript/7.2.2-array-in-javascript.md)
+  * [7.2.3 Precise in JavaScript](mean-stack/7.2-javascript/7.2.3-precise-in-javascript.md)
   * [JS Tips & Questions](mean-stack/7.2-javascript/js-tips-and-questions/README.md)
     * [a. JavaScript Email Validation](mean-stack/7.2-javascript/js-tips-and-questions/a.-javascript-email-validation.md)
     * [b. Ternary Operator](mean-stack/7.2-javascript/js-tips-and-questions/b.-ternary-operator.md)
