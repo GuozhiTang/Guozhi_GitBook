@@ -67,8 +67,11 @@
 
 ## WEB DEVELOPMENT
 
-* [6.1 HTML Introduction](web-development/6.1-html-introduction.md)
-* [6.2 Basic Points](web-development/6.2-basic-points.md)
+* [6.1 HTML](web-development/6.1-html/README.md)
+  * [6.1.1 HTML Introduction](web-development/6.1-html/6.1.1-html-introduction.md)
+  * [6.1.2 Basic Points](web-development/6.1-html/6.1.2-basic-points.md)
+  * [HTML Tips & Questions](web-development/6.1-html/html-tips-and-questions.md)
+* [a. Table Inline](web-development/a.-table-inline.md)
 
 ## MEAN Stack
 
