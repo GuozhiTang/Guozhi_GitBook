@@ -82,6 +82,7 @@
   * [7.2.1 JS Traversal](mean-stack/7.2-javascript/7.2.1-js-traversal.md)
   * [JS Tips & Questions](mean-stack/7.2-javascript/js-tips-and-questions/README.md)
     * [a. JavaScript Email Validation](mean-stack/7.2-javascript/js-tips-and-questions/a.-javascript-email-validation.md)
+    * [b. Ternary Operator](mean-stack/7.2-javascript/js-tips-and-questions/b.-ternary-operator.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
 * [7.5 Angular](mean-stack/7.5-angular/README.md)
