@@ -70,15 +70,16 @@
 * [6.1 HTML](web-development/6.1-html/README.md)
   * [6.1.1 HTML Introduction](web-development/6.1-html/6.1.1-html-introduction.md)
   * [6.1.2 Basic Points](web-development/6.1-html/6.1.2-basic-points.md)
-  * [HTML Tips & Questions](web-development/6.1-html/html-tips-and-questions.md)
-* [a. Table Inline](web-development/a.-table-inline.md)
+  * [6.1.3 HTML Tips & Questions](web-development/6.1-html/6.1.3-html-tips-and-questions/README.md)
+    * [a. Table Inline](web-development/6.1-html/6.1.3-html-tips-and-questions/a.-table-inline.md)
 
 ## MEAN Stack
 
 * [7.1 Project Setup](mean-stack/7.1-project-setup/README.md)
   * [7.1.1 Simple Setup](mean-stack/7.1-project-setup/7.1.1-simple-setup.md)
   * [7.1.2 Common Setup](mean-stack/7.1-project-setup/7.1.2-common-setup.md)
-* [7.2 JavaScript Email Validation](mean-stack/7.2-javascript-email-validation.md)
+* [7.2 JavaScript](mean-stack/7.2-javascript/README.md)
+  * [7.2.1 JavaScript Email Validation](mean-stack/7.2-javascript/7.2.1-javascript-email-validation.md)
 * [7.3 Bootstrap Framworks](mean-stack/7.3-bootstrap-framworks.md)
 * [7.4 NODE.JS](mean-stack/7.4-node.js.md)
 * [7.5 Angular](mean-stack/7.5-angular/README.md)
