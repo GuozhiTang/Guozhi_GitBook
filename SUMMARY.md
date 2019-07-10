@@ -31,6 +31,7 @@
 * [2.5 .length, .length\(\) & size\(\)](java-basics/2.5-.length-.length-and-size.md)
 * [2.7 IndexOf](java-basics/2.7-indexof.md)
 * [2.8 Bitwise Operation](java-basics/2.8-bitwise-operation.md)
+* [2.9 StringBuilder](java-basics/2.9-stringbuilder.md)
 
 ## JavaWeb
 
