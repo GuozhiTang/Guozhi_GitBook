@@ -33,6 +33,7 @@
 * [2.8 Bitwise Operation](java-basics/2.8-bitwise-operation.md)
 * [2.9 StringBuilder](java-basics/2.9-stringbuilder.md)
 * [2.10 Iterator Traversal](java-basics/2.10-iterator-traversal.md)
+* [2.11 Factorial](java-basics/2.11-factorial.md)
 
 ## JavaWeb
 
