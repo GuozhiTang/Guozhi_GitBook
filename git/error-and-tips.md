@@ -42,7 +42,7 @@ git merge会形成MERGE-HEAD\(FETCH-HEAD\) 。git push会形成HEAD这样的引�
 
 * Update were rejected because the tip of your current branch is behind its remote counterpart...
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 * 最好解决办法有一个是：**勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。**
 * \*\*\*\*[**http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html**](http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html)\*\*\*\*
@@ -57,7 +57,7 @@ In some cases, after running **`git add .`**, we might find that we updates wron
 git status
 ```
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 * We can use following command to cancel updates in index area. If **`<file>`** is not specified, then it means to cancel all the updates in index area.
 
@@ -89,9 +89,21 @@ git reset --soft HEAD^
 
 如果commit中的注释写错了，只是想改一下注释，则：
 
-```text
+```bash
 git commit --amend
 ```
 
 此时会进入默认vim编辑器，修改完注释完毕后保存就好了
+
+## 8. \(Push/Clone\) 出现 Permission denied \(publickey\). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.
+
+* 情况一：和Github的连接不成功
+  * 检测连接情况，若不成功，按照1.11 Git and Github Settings重新设置
+  * ```bash
+    ssh -T git@github.com
+    ```
+* 情况二：连接成功但是用SSH Clone的时候始终不成功
+  * 改变方式，使用HTTPS方式连接Clone即可
+
+
 
