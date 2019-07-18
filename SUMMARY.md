@@ -66,6 +66,7 @@
 
 * [5.1 PostgreSQL](database/5.1-postgresql.md)
 * [5.2 MongoDB](database/5.2-mongodb/README.md)
+  * [5.2.1 Drop Collection](database/5.2-mongodb/5.2.1-drop-collection.md)
   * [Errors & Tips](database/5.2-mongodb/errors-and-tips.md)
 
 ## WEB DEVELOPMENT
