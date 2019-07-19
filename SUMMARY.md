@@ -17,6 +17,7 @@
 * [1.11 Git and Github Settings](configuration-tutorials/1.11-git-and-github-settings.md)
 * [1.12 Heroku Configuration](configuration-tutorials/1.12-heroku-configuration.md)
 * [1.13 Hotkeys](configuration-tutorials/1.13-hotkeys.md)
+* [1.14 Linux on Win10](configuration-tutorials/1.14-linux-on-win10.md)
 
 ## Java Basics
 
