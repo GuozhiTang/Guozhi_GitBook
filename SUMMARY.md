@@ -18,6 +18,7 @@
 * [1.12 Heroku Configuration](configuration-tutorials/1.12-heroku-configuration.md)
 * [1.13 Hotkeys](configuration-tutorials/1.13-hotkeys.md)
 * [1.14 Linux on Win10](configuration-tutorials/1.14-linux-on-win10.md)
+* [1.15 Hyper Configuration on Linux](configuration-tutorials/1.15-hyper-configuration-on-linux.md)
 
 ## Java Basics
 
