@@ -42,7 +42,7 @@ git merge会形成MERGE-HEAD\(FETCH-HEAD\) 。git push会形成HEAD这样的引�
 
 * Update were rejected because the tip of your current branch is behind its remote counterpart...
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2861%29.png)
 
 * 最好解决办法有一个是：**勾选强制覆盖已有的分支（可能会丢失改动），再点击上传，上传成功。**
 * \*\*\*\*[**http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html**](http://www.cnblogs.com/xwdreamer/archive/2012/05/29/2523958.html)\*\*\*\*
@@ -57,7 +57,7 @@ In some cases, after running **`git add .`**, we might find that we updates wron
 git status
 ```
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 * We can use following command to cancel updates in index area. If **`<file>`** is not specified, then it means to cancel all the updates in index area.
 
