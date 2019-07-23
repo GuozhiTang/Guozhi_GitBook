@@ -95,7 +95,7 @@ git commit --amend
 
 此时会进入默认vim编辑器，修改完注释完毕后保存就好了
 
-## 8. \(Push/Clone\) 出现 Permission denied \(publickey\). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.
+## 8. \(Push/Clone\) Permission denied \(publickey\). fatal: Could not read from remote repository. Please make sure you have the correct access rights and the repository exists.
 
 * 情况一：和Github的连接不成功
   * 检测连接情况，若不成功，按照1.11 Git and Github Settings重新设置
@@ -105,5 +105,21 @@ git commit --amend
 * 情况二：连接成功但是用SSH Clone的时候始终不成功
   * 改变方式，使用HTTPS方式连接Clone即可
 
+## 9. \(Add\) error: unable to index file 'node\_modules/.bin/atob' fatal: updating files failed
 
+* 此时进入 `node_modules/.bin` 查看其中的文件，都是不能open的
+* 原因是这些文件是直接从github上clone下来的，而github上的这些文件是从MacOS push上去的，他们link的方法不一样，而这些文件都是link文件，所以没有办法打开
+* 解决办法就是删除当前 `node_modules` 文件夹然后 `npm install` 重新生成，同时根据 `8.4 .gitignore`  生成 `.gitignore` 文件，这样可以减少操作系统冲突
+* 具体可以继续研读 `Symbolic Link` 相关知识点
+
+## 10. \(Add\) error: pathspec '.gitignore'' did not match any file\(s\) known to git
+
+* 这个问题一般是文件或者文件夹的名称错误，由于该文件或者文件夹不存在引起的
+* 所以需要重新确认输入命令中的各名称是否正确
+
+## 11. \(Add/push\) error: unable to create temporary file: No such file or directory
+
+```bash
+git config --global core.fscache false
+```
 

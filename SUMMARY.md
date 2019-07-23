@@ -107,6 +107,7 @@
 * [8.1 README & Markdown](git/8.1-readme-and-markdown.md)
 * [8.2 Pull, Push and Merge](git/8.2-pull-push-and-merge.md)
 * [8.3 Commands in Git](git/8.3-commands-in-git.md)
+* [8.4 .gitignore](git/8.4-.gitignore.md)
 * [Error & Tips](git/error-and-tips.md)
 
 ## DATA STRUCTURES & ALGORITHMS
