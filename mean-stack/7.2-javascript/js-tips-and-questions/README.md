@@ -1,2 +1,2 @@
-# JS Tips & Questions
+# Js Tips & Questions
 
