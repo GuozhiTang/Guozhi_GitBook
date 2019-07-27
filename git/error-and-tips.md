@@ -123,3 +123,13 @@ git commit --amend
 git config --global core.fscache false
 ```
 
+## 12. \(Merge\) error: you need to resolve your current index first
+
+* 出现这种情况可能是因为有conflicts没有解决可以：
+  * 解决conflicts后再次执行merge
+  * 回退到merge前的版本
+
+```bash
+git reset --merge
+```
+
