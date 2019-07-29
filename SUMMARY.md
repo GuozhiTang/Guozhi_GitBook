@@ -38,6 +38,7 @@
 * [2.9 StringBuilder](java-basics/2.9-stringbuilder.md)
 * [2.10 Iterator Traversal](java-basics/2.10-iterator-traversal.md)
 * [2.11 Factorial](java-basics/2.11-factorial.md)
+* [2.12 Comparator](java-basics/2.12-comparator.md)
 
 ## JavaWeb
 
