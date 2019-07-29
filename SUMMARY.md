@@ -20,6 +20,7 @@
 * [1.14 Linux on Win10](configuration-tutorials/1.14-linux-on-win10.md)
 * [1.15 Hyper Configuration](configuration-tutorials/1.15-hyper-configuration.md)
 * [1.16 Visual Studio Code Configuration](configuration-tutorials/1.16.md)
+* [1.17 Intellij IDEA Configuration](configuration-tutorials/1.17-intellij-idea-configuration.md)
 
 ## Java Basics
 
