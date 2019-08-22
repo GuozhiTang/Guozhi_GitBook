@@ -34,5 +34,5 @@ Then we can solve following these steps:
 
 打开Run-Edit Configurations，在VM options 处添加如下图所示，然后应用保存，重启intelij idea,测试发现控制台输出的汉字不在是乱码了
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
