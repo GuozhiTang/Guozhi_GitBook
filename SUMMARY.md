@@ -4,7 +4,8 @@
 
 ## Configuration Tutorials
 
-* [1.1 Java Environment Settings](configuration-tutorials/1.1-java-environment-settings.md)
+* [1.1 Java Environment Settings](configuration-tutorials/1.1-java-environment-settings/README.md)
+  * [1.1.1 Dual Java Environment Configuration](configuration-tutorials/1.1-java-environment-settings/1.1.1-dual-java-environment-configuration.md)
 * [1.2 Python Environment Settings](configuration-tutorials/1.2-python-environment-settings.md)
 * [1.3 TOMCAT Environment Settings](configuration-tutorials/1.3-tomcat-environment-settings.md)
 * [1.4 iTerm2 Settings](configuration-tutorials/1.4-iterm2-settings.md)
