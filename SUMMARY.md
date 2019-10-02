@@ -22,6 +22,7 @@
 * [1.15 Hyper Configuration](configuration-tutorials/1.15-hyper-configuration.md)
 * [1.16 Visual Studio Code Configuration](configuration-tutorials/1.16.md)
 * [1.17 Intellij IDEA Configuration](configuration-tutorials/1.17-intellij-idea-configuration.md)
+* [1.18 Angular Truffle Box](configuration-tutorials/1.18-angular-truffle-box.md)
 
 ## Java Basics
 
