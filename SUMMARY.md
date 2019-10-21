@@ -130,3 +130,7 @@
   * [9.7.1 HashMap](data-structures-and-algorithms/9.7-hashset-and-hashmap/9.7.1-hashmap.md)
   * [9.7.2 HashSet](data-structures-and-algorithms/9.7-hashset-and-hashmap/9.7.2-hashset.md)
 
+## Amazon Web Service
+
+* [10.1 Configuration](amazon-web-service/10.1-configuration.md)
+
