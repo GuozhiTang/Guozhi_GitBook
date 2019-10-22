@@ -69,6 +69,7 @@
 * [4.1 zsh/bash Transformation](linux-operation/4.1-zsh-bash-transformation.md)
 * [4.2 Linux Commands](linux-operation/4.2-linux-commands.md)
 * [4.3 Vim](linux-operation/4.3-vim.md)
+* [4.4 Delete Component](linux-operation/4.4-delete-component.md)
 
 ## Database
 
