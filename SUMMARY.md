@@ -67,7 +67,8 @@
 ## Linux Operation
 
 * [4.1 zsh/bash Transformation](linux-operation/4.1-zsh-bash-transformation.md)
-* [4.2 Linux Commands](linux-operation/4.2-linux-commands.md)
+* [4.2 Linux Commands](linux-operation/4.2-linux-commands/README.md)
+  * [4.2.1 OS Version](linux-operation/4.2-linux-commands/4.2.1-os-version.md)
 * [4.3 Vim](linux-operation/4.3-vim.md)
 * [4.4 Delete Component](linux-operation/4.4-delete-component.md)
 
@@ -133,5 +134,6 @@
 
 ## Amazon Web Service
 
-* [10.1 Configuration](amazon-web-service/10.1-configuration.md)
+* [10.1 Connect to EC2 Instance](amazon-web-service/10.1-connect-to-ec2-instance.md)
+* [Error & Tips](amazon-web-service/error-and-tips.md)
 
