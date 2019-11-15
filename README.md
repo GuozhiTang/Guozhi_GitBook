@@ -1,8 +1,9 @@
 # Instruction
 
-## Topics in Guozhi\_GitBook
+* This document is for all the notes and ideas written by Guozhi Tang during the process of coding.
+* The domain of it is: [https://book.guozhinote.site/](https://book.guozhinote.site/)
 
-This document is for all the notes and ideas written by Guozhi Tang during the process of coding.
+## Topics in Guozhi\_GitBook
 
 ### 1. [Configuration Tutorials](configuration-tutorials/1.1-java-environment-settings/)
 
