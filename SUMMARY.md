@@ -137,8 +137,3 @@
 * [10.1 Connect to EC2 Instance](amazon-web-service/10.1-connect-to-ec2-instance.md)
 * [Error & Tips](amazon-web-service/error-and-tips.md)
 
-## Interviews
-
-* [11.1 Java](interviews/11.1-java.md)
-* [11.2 JavaScript](interviews/11.2-javascript.md)
-
