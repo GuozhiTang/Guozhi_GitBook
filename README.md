@@ -2,7 +2,7 @@
 
 This document is for all the notes written by Guozhi Tang during the process of practicing coding.
 
-#### 1. [Configuration Tutorials](configuration-tutorials/1.1-java-environment-settings/)
+## [Configuration Tutorials](configuration-tutorials/1.1-java-environment-settings/)
 
 Here are the steps and instructions of installing or configuring the related environment, components or softwares.
 
