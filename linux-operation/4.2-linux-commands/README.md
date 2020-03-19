@@ -180,3 +180,17 @@ tar命令能创建、查看和提取tar压缩文件。
 
  shutdown用于关闭计算机，而shutdown -r用于重启计算机。
 
+## 29. ssh
+
+* General Connection
+
+```bash
+ssh username@ip address
+```
+
+* Port Forwarding - it means to regard localhost:port as remote server's localhost:port.
+
+```bash
+ ssh username@ip address -L 127.0.0.1:local port:127.0.0.1:remote port
+```
+
