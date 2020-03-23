@@ -194,3 +194,11 @@ ssh username@ip address
  ssh username@ip address -L 127.0.0.1:local port:127.0.0.1:remote port
 ```
 
+## 30. scp
+
+
+
+```bash
+scp -r username@ip_address:remote_path local_path
+```
+
