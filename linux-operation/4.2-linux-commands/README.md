@@ -196,7 +196,7 @@ ssh username@ip address
 
 ## 30. scp
 
-
+* Copy the folder on the remote server to the local path, if it is a file, delete '-r'
 
 ```bash
 scp -r username@ip_address:remote_path local_path
