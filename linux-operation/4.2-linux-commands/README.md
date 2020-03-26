@@ -189,6 +189,7 @@ ssh username@ip address
 ```
 
 * Port Forwarding - it means to regard localhost:port as remote server's localhost:port.
+* [https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/](https://blog.fundebug.com/2017/04/24/ssh-port-forwarding/)
 
 ```bash
  ssh username@ip address -L 127.0.0.1:local port:127.0.0.1:remote port
@@ -201,4 +202,8 @@ ssh username@ip address
 ```bash
 scp -r username@ip_address:remote_path local_path
 ```
+
+31. Chown
+
+chown -R jd-root:jd-root test\_dir
 
